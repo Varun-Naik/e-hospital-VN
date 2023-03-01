@@ -1,6 +1,7 @@
 *******************
 *******************
-Hello Everyone to E-Hospital Project.
+
+Hi Everyone to E-Hospital Project.
 
 Note : Please install Node.js on your PC and in VSCode terminal you can type npm install -g nodemon to install this package. 
 
